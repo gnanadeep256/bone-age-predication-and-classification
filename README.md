@@ -59,9 +59,9 @@ Images are named as `<id>.png` and mapped to metadata via CSV files.
 
 ---
 
-### 2️Classical Machine Learning Baseline
+### Classical Machine Learning Baseline
 
-#### 🔹 HOG + XGBoost
+#### HOG + XGBoost
 - **Feature Extraction**: Histogram of Oriented Gradients (HOG)
 - **Model**: XGBoost
 - **Purpose**: Baseline comparison against CNN models
